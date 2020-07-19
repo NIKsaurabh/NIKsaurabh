@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Saurabh Kumar 👋
 
 <!--
 **NIKsaurabh/NIKsaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on improving my data science skills
+- 🌱 I’m currently learning Data Science and Machine Learning
+- 👯 I’m looking to collaborate on Data Science Projects
+- 🤔 I’m looking for help with Statistics
+- 💬 Ask me about Python, Machine Learning and Data Science
+- 📫 How to reach me: Mail id - saurabh238238@gmail.com
+- ⚡ Fun fact: I know all the memes;)
+<!--
+- 😄 Pronouns: ...**
+-->
+
