@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with Statistics
 - 💬 Ask me about Python, Machine Learning and Data Science
 - 📫 How to reach me: Mail id - saurabh238238@gmail.com , Linkedin - https://www.linkedin.com/in/niksaurabh/
-- ⚡ Fun fact: I know all the memes;)
+- ⚡ Fun fact: I know all the memes:wink:
 <!--
 - 😄 Pronouns: ...
 -->
