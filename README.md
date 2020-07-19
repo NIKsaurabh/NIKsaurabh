@@ -5,9 +5,9 @@
 -->
 - 🔭 I’m currently working on improving my data science skills
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on Data Science Projects
+- 👯 I’m looking to collaborate on Machine Learning, Data Science and Data Analytics Projects
 - 🤔 I’m looking for help with Statistics
-- 💬 Ask me about Python, Machine Learning and Data Science
+- 💬 Ask me about Python, Machine Learning, Data Science and Data Analytics
 - 📫 How to reach me: Mail id - saurabh238238@gmail.com , Linkedin - https://www.linkedin.com/in/niksaurabh/
 - ⚡ Fun fact: I know all the memes:wink:
 <!--
