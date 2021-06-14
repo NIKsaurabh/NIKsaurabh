@@ -3,11 +3,11 @@
 <!--
 **NIKsaurabh/NIKsaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on improving my Data Science skills
+- 🔭 I’m currently working on improving my Machine Learning, Deep Learning and Data Science skills
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on Machine Learning, Data Science and Data Analytics Projects
+- 👯 I’m looking to collaborate on Machine Learning, Deep Learning, Data Science and Data Analytics Projects
 - 🤔 I’m looking for help with Statistics
-- 💬 Ask me about Python, Machine Learning, Data Science and Data Analytics
+- 💬 Ask me about Python, Machine Learning, Deep Learning, Data Science and Data Analytics
 - 📫 How to reach me: Mail id - saurabh238238@gmail.com , Linkedin - https://www.linkedin.com/in/niksaurabh/
 - ⚡ Fun fact: I know all the memes:wink:
 <!--
